@@ -1,4 +1,4 @@
-title: Skyler Dev Diary #Your awesome title
+title: Skyler's Dev Diary #Your awesome title
 email: skylerseo.dev@gmail.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
@@ -20,7 +20,7 @@ user:
   name: Skyler Seo
   pic: /assets/img/profile-image.jpeg
   picAlt: 'Skyler Seo'
-  job: a category-centric theme
+  job: Front End Developer, based in Seoul.
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
