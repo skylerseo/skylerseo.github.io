@@ -1,5 +1,5 @@
 ---
 layout: category
 
-title: Web Design
+title: my-blog
 ---
