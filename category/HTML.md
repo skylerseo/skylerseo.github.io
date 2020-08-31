@@ -1,5 +1,5 @@
 ---
 layout: category
 
-title: html
+title: HTML
 ---

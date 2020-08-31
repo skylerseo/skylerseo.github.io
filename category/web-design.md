@@ -1,5 +1,5 @@
 ---
 layout: category
 
-title: web-design
+title: Web Design
 ---

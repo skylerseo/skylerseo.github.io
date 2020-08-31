@@ -1,5 +1,5 @@
 ---
 layout: category
 
-title: my-blog
+title: My Blog
 ---
