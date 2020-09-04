@@ -3,7 +3,7 @@ title: JS에서의 배열은 객체이다
 author: Skyler Seo
 date: 2020-09-05 00:51:00 +0900
 categories: [dev, javascript]
-tags: [javascript]
+tags: [javascript, array, object]
 ---
 
 # JS에서의 배열

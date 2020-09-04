@@ -3,7 +3,7 @@ title: Console API
 author: Skyler Seo
 date: 2020-09-05 00:40:00 +0900
 categories: [dev, web]
-tags: [api]
+tags: [api, console]
 ---
 
 # console API
