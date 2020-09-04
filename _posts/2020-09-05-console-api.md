@@ -36,4 +36,6 @@ Console API는 코드의 특정 지점에서 값이나 변수를 기록하고, �
 
 경고 메시지를 출력합니다. 추가 매개변수와 함께 문자열 치환을 사용할 수 있습니다.
 
-Materials: https://developer.mozilla.org/ko/docs/Web/API/Console
+## Materials
+
+<https://developer.mozilla.org/ko/docs/Web/API/Console>
