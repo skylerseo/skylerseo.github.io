@@ -7,7 +7,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Skyler's personal dev blog # the main title
+title: Skyler's dev blog # the main title
 
 tagline: Front End Developer, based in Seoul. # it will display as the sub-title
 
@@ -16,7 +16,7 @@ description: >- # used by seo meta and the atom feed
   Hello~ I'm Skyler, You can call me Suyeon or Skyler, either way. I’m Front End Developer who focuses on web accessibility, writing clean, poetic codes. Also I enjoy turning complex problems into simple, beautiful and intuitive designs. And I want to be minimal, environmentally friendly, and right person.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://skylerseo.github.io/'
 
 author: Skyler Seo # change to your full name
 
@@ -33,8 +33,8 @@ social:
   email: skylerseo.dev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/skylerseo # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/skyler-dev
