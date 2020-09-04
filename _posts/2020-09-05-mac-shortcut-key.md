@@ -3,7 +3,7 @@ title: 맥북 스포트라이트 단축키
 author: Skyler Seo
 date: 2020-09-05 05:32:00 +0900
 categories: [dev, tool]
-tags: [shortcut, tool, macbook]
+tags: [shortcut, shortcut-key, tool, macbook, apple]
 ---
 
 스포트라이트 열기 : ⌘+Space
