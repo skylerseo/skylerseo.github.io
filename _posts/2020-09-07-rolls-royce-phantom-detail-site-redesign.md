@@ -1,7 +1,7 @@
 ---
 title: 롤스로이스 팬텀 상세 페이지 리디자인
 author: Skyler Seo
-date: 2020-09-07 03:33:00 +0900
+date: 2020-09-07 03:40:00 +0900
 categories: [art, web-design]
 tags: [redesign, web-design, design, photoshop, adobe, adobe-photoshop]
 ---
