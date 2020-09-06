@@ -13,11 +13,12 @@ Use Language 🌐👉한국어, 日本語, English
 
 Hello~ I'm Skyler, You can call me Suyeon or Skyler, either way. I’m a sensible Front End Developer who focuses on web accessibility, writing clean, poetic codes. Also I enjoy turning complex problems into simple, beautiful and intuitive designs. And I want to be minimal, environmentally friendly, and right person.
 
-![assets/img/skyler-pic5.jpeg](assets/img/skyler-pic5.jpeg)
-
-![assets/img/skyler-pic2.jpeg](assets/img/skyler-pic2.jpeg)
-
-![assets/img/skyler-pic4.jpeg](assets/img/skyler-pic4.jpeg)
+![skyler's picture 1](assets/img/skyler-pic5.jpeg "skyler's picture 1")
+<img src="/assets/img/skyler-pic5.jpeg" width="30%" height="30%" title="skyler's picture 1" alt="skyler's picture 1"/>
+![skyler's picture 2](assets/img/skyler-pic2.jpeg "skyler's picture 2")
+<img src="./assets/img/skyler-pic2.jpeg" width="30%" height="30%" title="skyler's picture 2" alt="skyler's picture 2"/>
+![skyler's picture 3](assets/img/skyler-pic4.jpeg "skyler's picture 3")
+<img src="../assets/img/skyler-pic4.jpeg" width="30%" height="30%" title="skyler's picture 3" alt="skyler's picture 3"/>
 
 ## Contact
 
