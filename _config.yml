@@ -12,8 +12,7 @@ title: Skyler's dev blog # the main title
 tagline: Front End Developer, based in Seoul. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  안녕하세요~ 서수연(Skyler)입니다. 깔끔하고 시적인 코드를 지향하며, 웹접근성과 UX를 매우 소중히 여기는 프론트엔드 아기 개발자입니다.
-  Hello~ I'm Skyler, You can call me Suyeon or Skyler, either way. I’m Front End Developer who focuses on web accessibility, writing clean, poetic codes. Also I enjoy turning complex problems into simple, beautiful and intuitive designs. And I want to be minimal, environmentally friendly, and right person.
+  This is Skyler's personal blog, about baby Front-End developer.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://skylerseo.github.io/'
