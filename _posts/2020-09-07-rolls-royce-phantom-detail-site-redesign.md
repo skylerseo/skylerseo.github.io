@@ -10,6 +10,8 @@ tags: [redesign, web-design, design, photoshop, adobe, adobe-photoshop]
 
 <https://github.com/skylerseo/Rolls-Royce-Phantom-Site-Redesign>
 
+이미지에 우클릭 👉 '새 탭에서 이미지 열기' 👉 클릭, 확대해서 봐주세요😇
+
 ### Mobile version
 
 ![Rolls-Royce Phantom datail page Redesign - Mobile version](/assets/img/design-work/rolls-royce-phantom-detail-site-redesign-mobile_ver.jpg)
