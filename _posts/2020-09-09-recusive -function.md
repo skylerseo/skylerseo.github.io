@@ -78,5 +78,5 @@ console.log(factorial(6)); // 720
 
 ## Materials
 
-https://developer.mozilla.org/ko/docs/Glossary/Function
-https://poiemaweb.com/js-function#73-%EC%9E%AC%EA%B7%80-%ED%95%A8%EC%88%98
+<https://developer.mozilla.org/ko/docs/Glossary/Function>
+<https://poiemaweb.com/js-function#73-%EC%9E%AC%EA%B7%80-%ED%95%A8%EC%88%98>
