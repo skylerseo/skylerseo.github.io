@@ -11,7 +11,9 @@ tags: [redesign, web-design, design, photoshop, adobe, adobe-photoshop]
 <https://github.com/skylerseo/Rolls-Royce-Phantom-Site-Redesign>
 
 ![Rolls-Royce Phantom datail page Redesign - Mockup image](/assets/img/design-work/phantom-redesign-macbook-and-iphone.png)
-Redesign by Skyler Seo
+
+# Redesign by Skyler Seo
+
 이미지에 우클릭 👉 '새 탭에서 이미지 열기' 👉 클릭, 확대해서 봐주세요😇
 
 ### Mobile version
