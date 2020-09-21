@@ -152,10 +152,6 @@ tags: [tech-blog, dev-blog, it-blog, blog]
 
 [http://bigmatch.i-um.net/](http://bigmatch.i-um.net/)
 
-### 굿닥 엔지니어링
-
-[http://dev.goodoc.co.kr/](http://dev.goodoc.co.kr/)
-
 ### 후이서울
 
 [https://engineering.huiseoul.com/](https://engineering.huiseoul.com/)
