@@ -186,10 +186,6 @@ tags: [algorithm]
 
 ## Materials
 
-### wikipedia
+[wikipedia](https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98#:~:text=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(%EB%9D%BC%ED%8B%B4%EC%96%B4%2C%20%EB%8F%85%EC%9D%BC%EC%96%B4%3A%20Algorithmus,%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EB%8B%A8%EA%B3%84%EC%A0%81%20%EC%A0%88%EC%B0%A8%EB%A5%BC)
 
-<https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98#:~:text=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(%EB%9D%BC%ED%8B%B4%EC%96%B4%2C%20%EB%8F%85%EC%9D%BC%EC%96%B4%3A%20Algorithmus,%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EB%8B%A8%EA%B3%84%EC%A0%81%20%EC%A0%88%EC%B0%A8%EB%A5%BC>
-
-### github.com/trekhleb/javascript-algorithms
-
-<https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md>
+[github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)

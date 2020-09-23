@@ -46,10 +46,6 @@ tags: [data-structure]
 
 ## Materials
 
-### wikipedia
+[wikipedia](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0#:~:text=%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%E8%B3%87%E6%96%99%E6%A7%8B%E9%80%A0%2C%20%EC%98%81%EC%96%B4,%EB%82%98%20%EB%AA%85%EB%A0%B9%EC%9D%84%20%EC%9D%98%EB%AF%B8%ED%95%9C%EB%8B%A4.)
 
-<https://ko.wikipedia.org/wiki/%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0#:~:text=%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%E8%B3%87%E6%96%99%E6%A7%8B%E9%80%A0%2C%20%EC%98%81%EC%96%B4,%EB%82%98%20%EB%AA%85%EB%A0%B9%EC%9D%84%20%EC%9D%98%EB%AF%B8%ED%95%9C%EB%8B%A4.>
-
-### github.com/trekhleb/javascript-algorithms
-
-<https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md>
+[github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)

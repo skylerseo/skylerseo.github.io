@@ -12,10 +12,6 @@ Canvas API는 주로 2D 그래픽에 중점을 두고 있습니다. WebGL API �
 
 # Materials
 
-Canvas API :
+[Canvas API](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas)
 
-[https://developer.mozilla.org/ko/docs/Web/HTML/Canvas](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas)
-
-캔버스 튜토리얼 :
-
-[https://developer.mozilla.org/ko/docs/Web/HTML/Canvas/Tutorial](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas/Tutorial)
+[mdn 캔버스 튜토리얼](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas/Tutorial)
