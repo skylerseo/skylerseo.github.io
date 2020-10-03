@@ -6,65 +6,78 @@ categories: [dev, tool]
 tags: [shortcut, shortcut-key, tool, vscode, visualstudiocode, command]
 ---
 
-ctrl+, : 사용자 설정 열기
+자주 쓸 것 같은 단축키들 모음입니다.
 
-ctrl+shift+p : 모든 명령 표시(커맨드 팔레트 열기)
 
-ctrl+n : 새탭 열기
+`ctrl + ,` : 사용자 설정 열기
 
-ctrl+f4 : 닫기
+`ctrl + p` : 빠른 파일 열기
 
-ctrl+o : 파일 열기
+`ctrl + b` : 왼쪽 사이드바 껐다 켰다 하기
 
-ctrl+shift+s : 다른 이름으로 저장
+`ctrl + j` : 하단 패널 껐다 켰다 하기
 
-ctrl+ks : 모두 저장
+`ctrl + \` : 에디터 분리
 
-f11 : 전체화면 토글
+`ctrl + shift + p` : 모든 명령 표시 (커맨드 팔레트 열기)
 
-ctrl+b : 사이드바 토글
+`ctrl + k + f` : 선택한 코드 자동정렬
 
-f5 : 디버그 시작/디버그 확인
+`ctrl + n` : 새 탭 열기
 
-ctrl+f5 : 시작(디버깅하지 않음)
+`ctrl + f4` : 닫기
 
-f6 : 중지
+`ctrl + o` : 파일 열기
 
-ctrl+shift+k : 행 삭제
+`ctrl + shift + s` : 다른 이름으로 저장
 
-ctrl+Enter : 아래에 행 삽입
+`ctrl + ks` : 모두 저장
 
-ctrl+shift+Enter : 위에 행 삽입
+`f11` : 전체화면 토글
 
-alt+Down : 행을 아래로 이동
+`ctrl + b` : 사이드바 토글
 
-alt+Up : 행을 위로 이동
+`f5` : 디버그 시작 / 디버그 확인
 
-shift+alt+Down : 위에 행 복사 추가
+`ctrl + f5` : 디버그 중지
 
-shift+alt+Up : 아래에 행 복사 추가
+`f9` : break point on / off
 
-f3 : 다음 찾기
+`ctrl + shift + k` : 행 삭제
 
-shift+f3 : 이전 찾기
+`ctrl + Enter` : 아래에 행 삽입
 
-ctrl+l (소문자 엘) : 현재 행 선택
+`ctrl + shift + enter` : 위에 행 삽입
 
-ctrl+shift+l (소문자 엘): 현재 선택 항목을 모두 선택
+`alt + Down` : 행을 아래로 이동
 
-shift+alt+i : 선택한 각 줄 끝의 커서 삽입
+`alt + Up` : 행을 위로 이동
 
-ctrl+alt+Down : 커서를 아래에 추가
+`shift + alt + Down` : 위에 행 복사 추가
 
-ctrl+alt+Up : 커서를 위에 추가
+`shift + alt + Up` : 아래에 행 복사 추가
 
-shift+alt+a : 커서위치에 주석 토글
+`f3` : 다음 찾기
 
-alt+c : 대 / 소문자 전환
+`shift + f3` : 이전 찾기
 
-shift+alt+오른쪽 : 선택 확장
+`ctrl + l (소문자 엘)` : 현재 행 선택
 
-shift+alt+왼쪽 : 선택 축소
+`ctrl + shift + l (소문자 엘)`: 현재 선택 항목을 모두 선택
+
+`shift + alt + i` : 선택한 각 줄 끝의 커서 삽입
+
+`ctrl + alt + Down` : 커서를 아래에 추가
+
+`ctrl + alt + Up` : 커서를 위에 추가
+
+`shift + alt + a` : 커서위치에 주석 토글
+
+`alt + c` : 대 / 소문자 전환
+
+`shift + alt + 오른쪽` : 선택 확장
+
+`shift + alt + 왼쪽` : 선택 축소
 
 ## Materials
 
