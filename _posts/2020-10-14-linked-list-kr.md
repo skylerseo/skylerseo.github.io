@@ -6,7 +6,7 @@ categories: [dev, data-structure]
 tags: [data-structure, linked-list]
 ---
 
-# This is Korean translation from me, the original link is [here](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list).
+### This is Korean translation from me, the original link is [here](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list).
 
 # 연결 리스트(Linked List)
 
