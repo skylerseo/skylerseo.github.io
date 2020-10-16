@@ -6,7 +6,7 @@ categories: [dev, data-structure]
 tags: [data-structure, doubly-linked-list]
 ---
 
-### This is Korean translation from me, the original link is [here](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list).
+### This is Korean translation from me, the original post is [here](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list).
 
 # 이중 연결 리스트(Doubly Linked List)
 
