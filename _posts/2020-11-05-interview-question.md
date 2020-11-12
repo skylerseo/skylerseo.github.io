@@ -3,7 +3,7 @@ title: 2020.11.05 프론트엔드 면접 질문 정리
 author: Skyler Seo
 date: 2020-11-05 20:36:00 +0900
 categories: [dev, etc]
-tags: [interview, question, front-end, frontend]
+tags: [interview, question, front-end, frontend, it]
 ---
 
 ## 모 IT 기업 기술면접 질문 정리 (생각나는 대로)
