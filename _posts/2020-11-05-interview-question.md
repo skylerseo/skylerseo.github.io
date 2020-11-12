@@ -1,5 +1,5 @@
 ---
-title: 오늘 봤던 프론트엔드 면접 질문 정리
+title: 2020.11.05 프론트엔드 면접 질문 정리
 author: Skyler Seo
 date: 2020-11-05 20:36:00 +0900
 categories: [dev, etc]
