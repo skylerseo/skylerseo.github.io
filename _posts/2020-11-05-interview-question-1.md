@@ -30,6 +30,7 @@ tags: [interview, question, front-end, frontend]
 - 싱글턴 패턴에 대해 아시나요?
 - OSI 7계층에 대해 아시나요? (이건 모르는 게 당연하다고 한다)
 - CORS에 대해 설명해주세요
+- react - 왜 import로 번거롭게 하나씩 불러오는지?
 - react - 리스트를 업데이트했을 때 발생하는 오류는?
 
 ## 면접 후기
