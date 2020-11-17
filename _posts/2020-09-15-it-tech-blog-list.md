@@ -175,3 +175,11 @@ tags: [tech-blog, dev-blog, it-blog, blog]
 ### 핑퐁
 
 [https://blog.pingpong.us/](https://blog.pingpong.us/)
+
+### TOAST UI
+
+[https://ui.toast.com/weekly-pick/ko](https://ui.toast.com/weekly-pick/ko)
+
+### 박스여우
+
+[https://boxfoxs.tistory.com/](https://boxfoxs.tistory.com/)
