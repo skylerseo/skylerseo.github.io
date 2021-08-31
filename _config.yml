@@ -19,13 +19,13 @@ url: 'https://skylerseo.github.io/portfolio/'
 
 author: Skyler Seo # change to your full name
 
-avatar: /assets/img/skyler.jpeg # support internet resources
+avatar: /assets/img/skyler_square.jpg # support internet resources
 
 github:
   username: skylerseo # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   name: Skyler Seo # it will shows as the copyright owner in Footer
